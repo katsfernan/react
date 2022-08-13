@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba <GifItem/> Debe mostrar el mismo snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Soy un titulo de un Gif"
+      src="https://giphy.com/gifs/callofduty-call-of-duty-modern-warfare-2-ii-eFxpuiAuG4nrPNCPEM"
+    />
+    <p>
+      Soy un titulo de un Gif
+    </p>
+  </div>
+</div>
+`;
